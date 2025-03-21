@@ -13,8 +13,8 @@ This project analyzes retail data with an ECE (Electrical and Computer Engineeri
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ece_retail_analysis.git
-cd ece_retail_analysis
+git clone https://github.com/arhant-j/capstone_project.git
+cd capstone_project
 ```
 
 2. Create and activate a virtual environment:
@@ -61,4 +61,4 @@ The dashboard includes the following visualizations:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
